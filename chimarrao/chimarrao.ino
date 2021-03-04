@@ -1,8 +1,8 @@
-// Include the libraries we need
+
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-// Data wire is plugged into port 2 on the Arduino
+
 #define ONE_WIRE_BUS A3
 #define LOWER_RED 4
 #define UPPER_RED 3
@@ -18,7 +18,7 @@ DallasTemperature sensors(&oneWire);
 
 void setup(void)
 {
-  // start serial port
+
   Serial.begin(9600);
   
   sensors.begin();
