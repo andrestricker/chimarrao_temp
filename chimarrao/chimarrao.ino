@@ -32,7 +32,6 @@ void setup(void)
 
 void loop(void)
 { 
-  Serial.print("Requesting temperatures");
   sensors.requestTemperatures();
   float tempC = sensors.getTempCByIndex(0);
 
@@ -40,11 +39,13 @@ void loop(void)
   {
     Serial.print("Temperature for the device 1 (index 0) is: ");
     Serial.println(tempC);
+    
     if(tempC<min_temp){
       digitalWrite(LOWER_RED, HIGH);
       digitalWrite(UPPER_RED, LOW);
       digitalWrite(GREEN, LOW);
       digitalWrite(HORN, LOW);
+      
     } else if (tempC>max_temp) {
       digitalWrite(LOWER_RED, LOW);
       digitalWrite(UPPER_RED, HIGH);
