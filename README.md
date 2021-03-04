@@ -17,7 +17,9 @@ Want to make water for your chimarrao and wonder if your kettle has reached your
 
 ## Assembly
 
-When you solder the resistors directly to the LED's you get along with a 1/4 sized breadboard. Other than that, just put together, put everything into the box and you are ready to go
+When you solder the resistors directly to the LED's you get along with a 1/4 sized breadboard. Other than that, just put together, put everything into the box and you are ready to go.
+
+I used superglue extensively when putting everything into the 3d printed box. 
 
 ## Notes
 
