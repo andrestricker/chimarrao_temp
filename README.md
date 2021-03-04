@@ -7,13 +7,13 @@ Want to make water for your chimarrao and wonder if your kettle has reached your
 - 1 x [Arduino Nano](https://amzn.to/3uV4884)
 - 1 x [DS18B20 waterproof temperature sensor](https://amzn.to/3bWZaPK)
 - 1 x [1/2 or 1/4 sized solderable breadboard](https://amzn.to/3bZ5xSD) (the STL is made for 1/4 size)
-- 3 x 150 Ohm resistors
-- 1 x green LED
+- 3 x [150 Ohm resistors](https://amzn.to/3qjB0nw)
+- 1 x [green LED](https://amzn.to/2Ojiaj6)
 - 2 x red LED
-- 1 x battery holder for 4xAA or 4xAAA batteries
-- 1 x switch
-- 1 x piezo buzzer
-- cables
+- 1 x [battery holder](https://amzn.to/3bX01Qs) for 4xAA or 4xAAA batteries
+- 1 x [switch](https://amzn.to/2PBFaL3)
+- 1 x [piezo buzzer](https://amzn.to/3v3yqFY)
+- [cables](https://amzn.to/3ri11ou)
 
 ## Assembly
 
