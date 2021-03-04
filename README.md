@@ -23,4 +23,4 @@ I used superglue extensively when putting everything into the 3d printed box.
 
 ## Notes
 
-This was made with simplicity in mind to keep usage, code and assembly as simple as possible. Change mix_temp and max_temp to adjust to your tastiest temperature. 
+This was made with simplicity in mind to keep usage, code and assembly as simple as possible. Change min_temp and max_temp to adjust to your tastiest temperature. 
